@@ -1,5 +1,5 @@
 # Java tetris game
-My first game build in Java using Swing.
+My first game: A Tetris clone build using Java with the Swing framework.
 
 ## Getting started
 
@@ -12,9 +12,11 @@ dbusername=DATABASEUSERNAME
 dbpassword=DATABASEPASSWORD
 ```
 
+The dumb of the database and its tables can be found in the [database_dump.sql](/database_dump.sql) file.
+
 After changing these properties you have to manually build the software.
 
-## Screens
+## Screenshots
 #### Start screen
 ![Start](/res/start.png)
 
